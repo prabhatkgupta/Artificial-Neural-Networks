@@ -1,0 +1,18 @@
+1. Inversion Count of Array   -  https://practice.geeksforgeeks.org/problems/inversion-of-array/0/?track=md-arrays&batchId=144
+2. Sort an Array of 0s,1s,2s  -  https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0/?track=md-arrays&batchId=144
+3. Kedane's Algorithm - https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0/?track=md-arrays&batchId=144
+4. Kth Smallest Number - https://practice.geeksforgeeks.org/problems/kth-smallest-element/0/?track=md-arrays&batchId=144
+5. Number of Pairs - https://practice.geeksforgeeks.org/problems/number-of-pairs/0/?track=md-arrays&batchId=144
+6. Rearrange Array Alternately - https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately/0
+7. Buy and Sell - (Must buy at lower price just after a sell, and must sell before price falls) - https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0/?track=md-arrays&batchId=144
+8. Minimum Platforms - https://practice.geeksforgeeks.org/problems/minimum-platforms/0/?track=md-arrays&batchId=144
+9. Trapping RainWater - https://practice.geeksforgeeks.org/problems/trapping-rain-water/1/?track=md-arrays&batchId=144
+10. Boolean Matrix Problem - https://practice.geeksforgeeks.org/problems/boolean-matrix-problem/0/?track=md-arrays&batchId=144
+11. Merge Sorted Array in O(1) Space - https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0/?track=md-arrays&batchId=144
+12. SubArray with Given Sum - https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0/?track=md-arrays&batchId=144
+13. Roman Number to Integer - https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0/?track=md-string&batchId=144
+14. Recursively Remove all Adjacent Duplicates - (Minimize the String) - https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates/0/?track=md-string&batchId=144
+15. Form a Palindrome - DP - https://practice.geeksforgeeks.org/problems/form-a-palindrome/0/?track=md-string&batchId=144
+16. Longest Common Substring - https://practice.geeksforgeeks.org/problems/longest-common-substring/0/?track=md-string&batchId=144
+
+
